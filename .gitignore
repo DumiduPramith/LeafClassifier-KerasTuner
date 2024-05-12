@@ -1,0 +1,14 @@
+checkpoint
+*.index
+*.data-00000-of-00001
+*.keras
+*.h5
+male-female-height-and-weight
+csv_data.py
+digitClassifier.ipynb
+lec.ipynb
+main.py
+movie_classifier.ipynb
+newswire.ipynb
+newswire_multiclass_classifier_prediction.ipynb
+test.ipynb
