@@ -3,7 +3,9 @@
 </h2>
 <br/>
 <center>
-[![forthebadge](https://forthebadge.com/images/badges/made-in-python.svg)](https://forthebadge.com) &nbsp
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) &nbsp;
+
 </center>
 This project consists of two main parts: the Leaf Classifier and the Analysis of the classifier's performance.
 
@@ -36,7 +38,18 @@ The data collected includes the validation loss, validation accuracy, and traini
 - Keras
 - Keras Tuner
 
-## Analysis
+## Analysis Results
 <div align="center">
-    <img alt="Demo" src="newplot.png"/>
+   <p>Hyperparameter Tuning Results</p>
+    <img alt="Demo" src="Images/newplot.png"/>
+</div>
+<br/>
+<div align="center">
+    <p>Best model Evaluate Results</p>
+    <img alt="Demo" src="Images/evaluate.png"/>
+</div>
+<br/>
+<div align="center">
+    <p>Best hyperparameters</p> 
+    <img alt="Demo" src="Images/hyper_params.png"/>
 </div>
