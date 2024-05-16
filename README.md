@@ -29,7 +29,7 @@ The data collected includes the validation loss, validation accuracy, and traini
 
 ## How to Run
 
-1. Open the `leaf_classifier_feature_scaling.ipynb` file in Jupyter Notebook and run all the cells to train the Leaf Classifier.
+1. Open the `leaf_classifier_feature_scaling.ipynb` file from RandomSearch folder in Jupyter Notebook and run all the cells to train the Leaf Classifier.
 
 2. Open the `analyser.ipynb` file in Jupyter Notebook and run all the cells to analyze the performance of the Leaf Classifier.
 
